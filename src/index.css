@@ -119,7 +119,7 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
-@media screen and (min-width: 400px){
+/* @media screen and (min-width: 400px){
 .world-card {
   width: 100%;
   background-color: orange !important;
@@ -131,4 +131,4 @@ tr:nth-child(even) {
     width: 100%;
     background-color: orange !important;
   }
-  }
+  } */
